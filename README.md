@@ -57,7 +57,7 @@ Gazara Grocery Store/
 ## 🧩 Project Scope
 
 ### Functional Areas Covered
-- User Authentication (Signup & Login) https://1drv.ms/x/c/6ef00d33637adf73/IQD9M0jxX1UuQ7y9FX_RceFzAQ86sjhuppD8wKVboPYH67s?e=rsufXZ
+- User Authentication (Signup & Login)
 - Main Navigation
 - Product Browsing
 - Shopping Cart
