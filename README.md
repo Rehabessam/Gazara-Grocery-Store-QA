@@ -57,7 +57,7 @@ Gazara Grocery Store/
 ## 🧩 Project Scope
 
 ### Functional Areas Covered
-- User Authentication (Signup & Login)
+- User Authentication (Signup & Login) https://1drv.ms/x/c/6ef00d33637adf73/IQD9M0jxX1UuQ7y9FX_RceFzAQ86sjhuppD8wKVboPYH67s?e=rsufXZ
 - Main Navigation
 - Product Browsing
 - Shopping Cart
@@ -86,7 +86,7 @@ Each Epic contains multiple **User Stories** with:
 - Clear descriptions
 - Acceptance criteria
 - Priority and sprint assignment
-- Preserved Jira IDs (e.g. GGS-1, GSS-3) for traceability
+- Preserved Jira IDs (e.g., GGS-1, GSS-3) for traceability
 
 ---
 
