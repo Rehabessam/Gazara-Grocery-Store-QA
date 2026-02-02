@@ -102,6 +102,16 @@ Test cases and test cycles were designed **based on requirements only**, as no r
 
 ---
 
+## 🧪 Test Cases
+
+- 🔐 [Authentication](https://1drv.ms/x/c/6ef00d33637adf73/IQD9M0jxX1UuQ7y9FX_RceFzAQ86sjhuppD8wKVboPYH67s?e=CHKL57)
+- 🧭 [Navigation](PUT_NAVIGATION_EXCEL_LINK_HERE)
+- 🛒 [Cart](PUT_CART_EXCEL_LINK_HERE)
+- 📦 [Checkout](PUT_CHECKOUT_EXCEL_LINK_HERE)
+- 💳 [Payment](PUT_PAYMENT_EXCEL_LINK_HERE)
+
+---
+
 ## 🔗 Traceability
 A **Requirement Traceability Matrix (RTM)** is included to ensure:
 - Each User Story is linked to one or more test cases
