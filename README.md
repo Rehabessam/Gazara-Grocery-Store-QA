@@ -105,10 +105,10 @@ Test cases and test cycles were designed **based on requirements only**, as no r
 ## 🧪 Test Cases
 
 - 🔐 [Authentication](https://1drv.ms/x/c/6ef00d33637adf73/IQD9M0jxX1UuQ7y9FX_RceFzAQ86sjhuppD8wKVboPYH67s?e=CHKL57)
-- 🧭 [Navigation](PUT_NAVIGATION_EXCEL_LINK_HERE)
-- 🛒 [Cart](PUT_CART_EXCEL_LINK_HERE)
-- 📦 [Checkout](PUT_CHECKOUT_EXCEL_LINK_HERE)
-- 💳 [Payment](PUT_PAYMENT_EXCEL_LINK_HERE)
+- 🧭 [Navigation](https://1drv.ms/x/c/6ef00d33637adf73/IQD2kaFALA-0Q5NwBarxPYQkASj2ycihPBtw-xy3bW4aTjU?e=9xj5el)
+- 🛒 [Cart](https://1drv.ms/x/c/6ef00d33637adf73/IQC3qCXR0StCSJp7JdF7iSSkAT9UaVEywJuVc7tdWhIEmQI?e=DqCxaC)
+- 📦 [Checkout](https://1drv.ms/x/c/6ef00d33637adf73/IQA2n55F7fxeQ4tNbOgLmiG3Aa3c2-VQj1zfczFhxt4dJ9s?e=gRzf2l)
+- 💳 [Payment](https://1drv.ms/x/c/6ef00d33637adf73/IQDTMl3j8LGnSogPvd_0OfQxAbS5Ch29qzMwjYTSmKkB2yw?e=3sjMBY)
 
 ---
 
